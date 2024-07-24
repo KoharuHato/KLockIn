@@ -1,1 +1,1 @@
-# KLockIn.git
+# https://KoharuHato.github.io/KLockIn
